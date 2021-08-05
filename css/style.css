@@ -1,0 +1,60 @@
+body{
+    width: auto;
+}
+main{
+    width: 900px;
+    margin: auto;
+}
+
+.Article2 p{
+    margin: 10px auto;
+    
+
+
+}
+.Article2 img{
+    margin: 10px;
+
+
+}
+.Article1 img{
+    margin-top: 20px;
+}
+.Article1 h1{
+    font-size: 60px;
+}
+.Article1 p{
+    color: gray;
+}
+footer {
+    text-align: center;
+    margin-top: 70px;
+}
+section {
+    display: grid;
+    grid-template-columns: 80px auto auto;
+    gap: 10px;
+}
+header{
+    width:900px;
+    margin:auto;
+    display: grid;
+    grid-template-columns: auto auto;
+    gap: 10px;
+    align-items: center;
+    
+    
+        display: grid ;  grid-template-columns: auto auto auto ;
+      
+}
+
+header div{
+padding-left: 550px;
+    
+
+}
+section button {
+    background-color: brown ;
+    color: cornsilk;
+    font-size: 25px;
+}
